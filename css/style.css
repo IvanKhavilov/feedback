@@ -32,7 +32,6 @@ body {
   padding: 16px 16px 16px 40px;
   border-radius: 40px;
   min-height: 424px;
-  border: 1px solid red;
 }
 .feedback__item-text {
   width: 66.75%;
